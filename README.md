@@ -1,0 +1,1 @@
+# Automation-Script-to-Find-Active-Resources-on-AWS-
